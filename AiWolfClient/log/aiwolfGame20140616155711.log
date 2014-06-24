@@ -1,0 +1,305 @@
+0,status,1,werewolf,alive,SamplePlayer
+0,status,2,werewolf,alive,SamplePlayer
+0,status,3,villager,alive,SamplePlayer
+0,status,4,seer,alive,SamplePlayer
+0,status,5,villager,alive,SamplePlayer
+0,status,6,villager,alive,SamplePlayer
+0,status,7,villager,alive,SamplePlayer
+0,status,8,villager,alive,SamplePlayer
+0,status,9,medium,alive,SamplePlayer
+0,status,10,possessed,alive,SamplePlayer
+0,status,11,bodyguard,alive,SamplePlayer
+0,status,12,villager,alive,SamplePlayer
+0,talk,0,3,11 werewolf
+0,talk,1,6,2 werewolf
+0,talk,2,11,1 werewolf
+0,talk,3,8,10 werewolf
+0,talk,4,12,11 werewolf
+0,talk,5,4,3 werewolf
+0,talk,6,9,4 werewolf
+0,talk,7,2,6 werewolf
+0,talk,8,5,9 werewolf
+0,talk,9,7,6 werewolf
+0,talk,10,10,6 werewolf
+0,talk,11,1,6 werewolf
+0,whisper,0,2,Over
+0,whisper,1,1,Over
+0,talk,12,3,Over
+0,talk,13,1,Over
+0,talk,14,2,Over
+0,talk,15,5,Over
+0,talk,16,8,Over
+0,talk,17,7,Over
+0,talk,18,11,Over
+0,talk,19,9,Over
+0,talk,20,4,Over
+0,talk,21,10,Over
+0,talk,22,12,Over
+0,talk,23,6,Over
+0,whisper,2,1,Over
+0,whisper,3,2,Over
+0,vote,3,11
+0,vote,4,3
+0,vote,1,6
+0,vote,2,6
+0,vote,7,6
+0,vote,8,10
+0,vote,5,9
+0,vote,6,2
+0,vote,11,1
+0,vote,12,11
+0,vote,9,4
+0,vote,10,6
+0,divine,4,4,Human
+0,guard,11,12,villager
+0,attackVote,1,8
+0,attackVote,2,5
+0,execute,6,villager
+0,attack,5,true
+1,status,1,werewolf,alive,SamplePlayer
+1,status,2,werewolf,alive,SamplePlayer
+1,status,3,villager,alive,SamplePlayer
+1,status,4,seer,alive,SamplePlayer
+1,status,5,villager,dead,SamplePlayer
+1,status,6,villager,dead,SamplePlayer
+1,status,7,villager,alive,SamplePlayer
+1,status,8,villager,alive,SamplePlayer
+1,status,9,medium,alive,SamplePlayer
+1,status,10,possessed,alive,SamplePlayer
+1,status,11,bodyguard,alive,SamplePlayer
+1,status,12,villager,alive,SamplePlayer
+1,talk,0,2,8 werewolf
+1,talk,1,8,10 werewolf
+1,talk,2,11,8 werewolf
+1,talk,3,4,1 werewolf
+1,talk,4,9,2 werewolf
+1,talk,5,1,12 werewolf
+1,talk,6,3,10 werewolf
+1,talk,7,7,11 werewolf
+1,talk,8,12,8 werewolf
+1,talk,9,10,8 werewolf
+1,whisper,0,1,Over
+1,whisper,1,2,Over
+1,talk,10,11,Over
+1,talk,11,9,Over
+1,talk,12,10,Over
+1,talk,13,1,Over
+1,talk,14,12,Over
+1,talk,15,8,Over
+1,talk,16,3,Over
+1,talk,17,7,Over
+1,talk,18,2,Over
+1,talk,19,4,Over
+1,whisper,2,2,Over
+1,whisper,3,1,Over
+1,vote,3,10
+1,vote,4,1
+1,vote,1,12
+1,vote,2,8
+1,vote,7,11
+1,vote,8,10
+1,vote,11,8
+1,vote,12,8
+1,vote,9,2
+1,vote,10,8
+1,divine,4,10,Human
+1,guard,11,12,villager
+1,attackVote,1,12
+1,attackVote,2,3
+1,execute,8,villager
+1,attack,12,false
+2,status,1,werewolf,alive,SamplePlayer
+2,status,2,werewolf,alive,SamplePlayer
+2,status,3,villager,alive,SamplePlayer
+2,status,4,seer,alive,SamplePlayer
+2,status,5,villager,dead,SamplePlayer
+2,status,6,villager,dead,SamplePlayer
+2,status,7,villager,alive,SamplePlayer
+2,status,8,villager,dead,SamplePlayer
+2,status,9,medium,alive,SamplePlayer
+2,status,10,possessed,alive,SamplePlayer
+2,status,11,bodyguard,alive,SamplePlayer
+2,status,12,villager,alive,SamplePlayer
+2,talk,0,3,7 werewolf
+2,talk,1,12,4 werewolf
+2,talk,2,2,9 werewolf
+2,talk,3,4,1 werewolf
+2,talk,4,7,2 werewolf
+2,talk,5,10,( 11 werewolf ) and ( 10 comingout medium ) and ( 3 medium_telled HUMAN ) and ( 3 medium_telled werewolf ) 
+2,talk,6,9,( 10 werewolf ) and ( 9 comingout medium ) and ( 6 medium_telled HUMAN ) and ( 8 medium_telled HUMAN ) 
+2,talk,7,11,1 werewolf
+2,talk,8,1,11 werewolf
+2,whisper,0,2,Over
+2,whisper,1,1,Over
+2,talk,9,2,Over
+2,talk,10,12,Over
+2,talk,11,7,Over
+2,talk,12,10,3 werewolf
+2,talk,13,11,Over
+2,talk,14,4,Over
+2,talk,15,1,Over
+2,talk,16,3,Over
+2,talk,17,9,Over
+2,whisper,2,1,Over
+2,whisper,3,2,Over
+2,talk,18,9,Over
+2,talk,19,2,Over
+2,talk,20,12,Over
+2,talk,21,10,Over
+2,talk,22,1,Over
+2,talk,23,3,Over
+2,talk,24,7,Over
+2,talk,25,11,Over
+2,talk,26,4,Over
+2,whisper,4,1,Over
+2,whisper,5,2,Over
+2,vote,3,7
+2,vote,4,1
+2,vote,1,11
+2,vote,2,9
+2,vote,7,2
+2,vote,11,1
+2,vote,12,4
+2,vote,9,10
+2,vote,10,3
+2,divine,4,7,Human
+2,guard,11,10,possessed
+2,attackVote,1,9
+2,attackVote,2,9
+2,execute,1,werewolf
+2,attack,9,true
+3,status,1,werewolf,dead,SamplePlayer
+3,status,2,werewolf,alive,SamplePlayer
+3,status,3,villager,alive,SamplePlayer
+3,status,4,seer,alive,SamplePlayer
+3,status,5,villager,dead,SamplePlayer
+3,status,6,villager,dead,SamplePlayer
+3,status,7,villager,alive,SamplePlayer
+3,status,8,villager,dead,SamplePlayer
+3,status,9,medium,dead,SamplePlayer
+3,status,10,possessed,alive,SamplePlayer
+3,status,11,bodyguard,alive,SamplePlayer
+3,status,12,villager,alive,SamplePlayer
+3,talk,0,2,11 werewolf
+3,talk,1,3,4 werewolf
+3,talk,2,7,11 werewolf
+3,talk,3,10,( 3 werewolf ) and ( 4 medium_telled HUMAN ) 
+3,talk,4,4,( 10 werewolf ) and ( 4 comingout seer ) and ( 4 inspected HUMAN ) and ( 10 inspected HUMAN ) and ( 7 inspected HUMAN ) 
+3,talk,5,12,7 werewolf
+3,talk,6,11,10 werewolf
+3,whisper,0,2,Over
+3,talk,7,12,Over
+3,talk,8,3,Over
+3,talk,9,11,Over
+3,talk,10,4,Over
+3,talk,11,10,Over
+3,talk,12,7,3 werewolf
+3,talk,13,2,Over
+3,whisper,1,2,Over
+3,talk,14,4,Over
+3,talk,15,3,Over
+3,talk,16,11,Over
+3,talk,17,2,Over
+3,talk,18,10,Over
+3,talk,19,12,Over
+3,talk,20,7,Over
+3,whisper,2,2,Over
+3,vote,3,4
+3,vote,4,10
+3,vote,2,11
+3,vote,7,3
+3,vote,11,10
+3,vote,12,7
+3,vote,10,3
+3,divine,4,7,Human
+3,guard,11,4,seer
+3,attackVote,2,4
+3,execute,3,villager
+3,attack,4,false
+4,status,1,werewolf,dead,SamplePlayer
+4,status,2,werewolf,alive,SamplePlayer
+4,status,3,villager,dead,SamplePlayer
+4,status,4,seer,alive,SamplePlayer
+4,status,5,villager,dead,SamplePlayer
+4,status,6,villager,dead,SamplePlayer
+4,status,7,villager,alive,SamplePlayer
+4,status,8,villager,dead,SamplePlayer
+4,status,9,medium,dead,SamplePlayer
+4,status,10,possessed,alive,SamplePlayer
+4,status,11,bodyguard,alive,SamplePlayer
+4,status,12,villager,alive,SamplePlayer
+4,talk,0,11,2 werewolf
+4,talk,1,7,2 werewolf
+4,talk,2,2,11 werewolf
+4,talk,3,12,7 werewolf
+4,talk,4,10,( 3 werewolf ) and ( 4 medium_telled HUMAN ) 
+4,talk,5,4,( 12 werewolf ) and ( 7 inspected HUMAN ) 
+4,whisper,0,2,Over
+4,talk,6,2,Over
+4,talk,7,10,Over
+4,talk,8,11,7 werewolf
+4,talk,9,4,Over
+4,talk,10,7,4 werewolf
+4,talk,11,12,Over
+4,whisper,1,2,Over
+4,talk,12,11,Over
+4,talk,13,4,Over
+4,talk,14,7,Over
+4,talk,15,2,Over
+4,talk,16,10,Over
+4,talk,17,12,Over
+4,whisper,2,2,Over
+4,vote,4,12
+4,vote,2,11
+4,vote,7,4
+4,vote,11,7
+4,vote,12,7
+4,vote,10,3
+4,divine,4,12,Human
+4,guard,11,10,possessed
+4,attackVote,2,4
+4,execute,7,villager
+4,attack,4,true
+5,status,1,werewolf,dead,SamplePlayer
+5,status,2,werewolf,alive,SamplePlayer
+5,status,3,villager,dead,SamplePlayer
+5,status,4,seer,dead,SamplePlayer
+5,status,5,villager,dead,SamplePlayer
+5,status,6,villager,dead,SamplePlayer
+5,status,7,villager,dead,SamplePlayer
+5,status,8,villager,dead,SamplePlayer
+5,status,9,medium,dead,SamplePlayer
+5,status,10,possessed,alive,SamplePlayer
+5,status,11,bodyguard,alive,SamplePlayer
+5,status,12,villager,alive,SamplePlayer
+5,talk,0,11,10 werewolf
+5,talk,1,2,10 werewolf
+5,talk,2,12,10 werewolf
+5,talk,3,10,( 3 werewolf ) and ( 11 medium_telled HUMAN ) 
+5,whisper,0,2,Over
+5,talk,4,10,Over
+5,talk,5,11,Over
+5,talk,6,12,Over
+5,talk,7,2,Over
+5,whisper,1,2,Over
+5,vote,2,10
+5,vote,11,10
+5,vote,12,10
+5,vote,10,3
+5,guard,11,2,werewolf
+5,attackVote,2,11
+5,execute,10,possessed
+5,attack,11,true
+6,status,1,werewolf,dead,SamplePlayer
+6,status,2,werewolf,alive,SamplePlayer
+6,status,3,villager,dead,SamplePlayer
+6,status,4,seer,dead,SamplePlayer
+6,status,5,villager,dead,SamplePlayer
+6,status,6,villager,dead,SamplePlayer
+6,status,7,villager,dead,SamplePlayer
+6,status,8,villager,dead,SamplePlayer
+6,status,9,medium,dead,SamplePlayer
+6,status,10,possessed,dead,SamplePlayer
+6,status,11,bodyguard,dead,SamplePlayer
+6,status,12,villager,alive,SamplePlayer
+6,result,1,1,werewolf
